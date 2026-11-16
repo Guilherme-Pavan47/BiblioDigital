@@ -1,4 +1,4 @@
-#Guilherme Luiz Pavan Vial RA: 1139397
+Guilherme Luiz Pavan Vial RA: 1139397
 
 # BiblioDigital
 
